@@ -1,6 +1,6 @@
-# http://favfor.me是我开发的一个PC端收藏链接工具，欢迎注册使用。
-# favfor.me based on iView-project
 
+# favfor.me based on iView-project
+http://favfor.me 是一个PC端收藏链接的工具,欢迎注册使用。
 This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
 
 ## Install
